@@ -1,0 +1,20 @@
+canvas {
+  background-color: black;
+}
+
+#start{
+  background: url(../img/BeastieBoys.png) no-repeat;
+  background-size: 400px, 300px, auto;
+  cursor: pointer;
+  text-indent: -9000px;
+  text-transform: capitalize;
+  position: absolute;
+  float: right;
+  outline: none;
+  top: 450px;
+  left: 1630px;
+  border: none;
+  bottom: 30%;
+  width: 400px;
+  height: 231px;
+}
