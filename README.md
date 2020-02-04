@@ -1,6 +1,6 @@
 # beat-it
 
-es un juego similar al famoso Guitar Hero en el que tendremos que ganar puntos mediante la sincronización de los sonidos 
+Es un juego similar al famoso Guitar Hero en el que tendremos que ganar puntos mediante la sincronización de los sonidos 
 con el tema original que estará sonando, mientras más nos acerquemos al Beat más puntos obtendremos.
 
 Los controles para este juego son:
