@@ -20,3 +20,5 @@ Al finalizar veremos el resultado de nuestra hazaña representado en puntos en n
 
 Como mejoras me gustaría implementar más niveles con diferentes canciones e incorporar un sistema de guardado de puntos con 
 tus iniciales.
+
+Ruta para jugar directamente: https://danbohler.github.io/beat-it/
